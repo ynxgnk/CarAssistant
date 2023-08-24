@@ -17,6 +17,7 @@
 		BA279FC82A93264B001C5BA2 /* NotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA279FC72A93264B001C5BA2 /* NotificationViewController.swift */; };
 		BA279FCA2A93265E001C5BA2 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA279FC92A93265E001C5BA2 /* ProfileViewController.swift */; };
 		BA279FCC2A9326BF001C5BA2 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA279FCB2A9326BF001C5BA2 /* ChatViewController.swift */; };
+		BA279FCE2A94914A001C5BA2 /* SubscriptionCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA279FCD2A94914A001C5BA2 /* SubscriptionCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		BA279FC72A93264B001C5BA2 /* NotificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationViewController.swift; sourceTree = "<group>"; };
 		BA279FC92A93265E001C5BA2 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		BA279FCB2A9326BF001C5BA2 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		BA279FCD2A94914A001C5BA2 /* SubscriptionCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 		BA279FBF2A9323EA001C5BA2 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				BA279FCD2A94914A001C5BA2 /* SubscriptionCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA279FCE2A94914A001C5BA2 /* SubscriptionCollectionViewCell.swift in Sources */,
 				BA279FC62A932640001C5BA2 /* SubscriptionViewController.swift in Sources */,
 				BA279FC22A932475001C5BA2 /* TabBarController.swift in Sources */,
 				BA279FC82A93264B001C5BA2 /* NotificationViewController.swift in Sources */,
